@@ -23,7 +23,7 @@ public class Mavenproject1 {
         
     
         System.out.println( "numero: " + count);
-    
+        
     }while(count<5);
     
     for (int inicio = 0; inicio <= 10; inicio++)
