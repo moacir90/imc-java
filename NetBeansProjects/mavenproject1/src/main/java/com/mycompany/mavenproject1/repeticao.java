@@ -14,7 +14,7 @@ public class repeticao {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        int num=0;
+        int num=-1;
         
         do{
             num=num+1;
