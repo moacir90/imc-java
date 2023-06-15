@@ -46,7 +46,7 @@ public class urnaEletronica {
        } else{
            if(voto!=00000){
            System.out.println("voce nao digitou um numero valido!");
-       }
+        }
        }
      
       }while(voto!=00000);
